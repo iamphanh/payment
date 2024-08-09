@@ -109,3 +109,249 @@
 17:06:49.317 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
 17:06:49.318 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
 17:07:04.378 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=VNPAY, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:12:48.789 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 33528 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:12:48.791 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:12:49.418 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:12:49.509 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 690 ms
+17:12:49.745 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:12:49.801 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.324 seconds (JVM running for 2.176)
+17:13:09.491 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:13:09.492 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:13:09.563 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:14:59.491 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:15:41.070 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 22444 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:15:41.072 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:15:41.650 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:15:41.757 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 656 ms
+17:15:41.989 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:15:42.027 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.336 seconds (JVM running for 2.263)
+17:15:46.399 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:15:46.400 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+17:15:46.476 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:16:54.357 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 46280 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:16:54.359 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:16:55.013 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:16:55.121 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 729 ms
+17:16:55.790 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:16:55.810 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.784 seconds (JVM running for 2.763)
+17:17:03.375 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:17:03.376 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:17:41.940 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:18:26.161 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 18284 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:18:26.163 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:18:26.820 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:18:26.925 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 735 ms
+17:18:27.162 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:18:27.173 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.34 seconds (JVM running for 2.218)
+17:18:38.270 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 29220 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:18:38.272 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:18:38.947 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:18:39.056 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 752 ms
+17:18:39.705 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:18:39.727 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.798 seconds (JVM running for 2.853)
+17:18:43.060 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:18:43.061 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+17:19:50.072 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:21:07.788 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 44900 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:21:07.791 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:21:08.466 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:21:08.588 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 765 ms
+17:21:09.249 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:21:09.273 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.841 seconds (JVM running for 2.805)
+17:21:10.731 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:21:10.732 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+17:21:18.782 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:22:10.449 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 35288 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:22:10.452 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:22:11.139 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:22:11.266 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 781 ms
+17:22:11.926 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:22:11.946 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.851 seconds (JVM running for 2.884)
+17:22:15.545 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:22:15.546 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:22:22.141 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:24:24.595 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 44584 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:24:24.598 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:24:25.250 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:24:25.364 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 733 ms
+17:24:25.663 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:24:25.675 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.43 seconds (JVM running for 2.409)
+17:24:35.898 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:24:35.898 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+17:24:35.986 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+17:26:24.407 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 29668 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+17:26:24.409 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+17:26:24.972 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:26:25.071 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 634 ms
+17:26:25.311 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:26:25.352 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.296 seconds (JVM running for 2.135)
+17:26:30.793 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:26:30.795 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:26:30.869 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:30:47.708 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 40532 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:30:47.710 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:30:48.404 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:30:48.524 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 780 ms
+08:30:48.829 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:30:48.841 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.497 seconds (JVM running for 2.441)
+08:30:56.075 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:30:56.075 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+08:30:56.166 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:31:28.406 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 40496 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:31:28.408 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:31:29.066 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:31:29.179 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 739 ms
+08:31:29.467 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:31:29.480 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.425 seconds (JVM running for 2.337)
+08:31:59.970 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:31:59.971 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+08:32:00.055 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:34:07.637 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 41396 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:34:07.640 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:34:08.337 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:34:08.450 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 779 ms
+08:34:08.751 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:34:08.764 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.484 seconds (JVM running for 2.549)
+08:34:15.094 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:34:15.095 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+08:34:15.175 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:35:36.864 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 42400 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:35:36.866 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:35:37.540 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:35:37.663 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 765 ms
+08:35:37.988 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:35:38.001 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.511 seconds (JVM running for 2.487)
+08:35:43.860 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:35:43.860 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+08:35:43.943 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:36:35.697 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 36840 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:36:35.700 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:36:36.374 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:36:36.488 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 754 ms
+08:36:36.804 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:36:36.818 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.469 seconds (JVM running for 2.469)
+08:36:39.801 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:36:39.802 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+08:36:39.889 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:43:37.893 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 48168 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:43:37.896 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:43:38.559 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:43:38.669 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 738 ms
+08:43:38.960 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:43:38.973 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.438 seconds (JVM running for 2.393)
+08:43:43.605 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:43:43.606 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+08:43:43.697 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:47:35.995 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 20584 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:47:35.998 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:47:36.664 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:47:36.773 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 743 ms
+08:47:37.079 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:47:37.092 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.442 seconds (JVM running for 2.48)
+08:47:40.602 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:47:40.602 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+08:47:40.689 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:48:30.182 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 44868 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:48:30.184 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:48:30.837 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:48:30.973 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 757 ms
+08:48:31.284 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:48:31.296 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.451 seconds (JVM running for 2.406)
+08:48:34.195 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:48:34.196 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+08:48:34.289 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:49:47.134 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 41948 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:49:47.137 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:49:47.782 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:49:47.892 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 722 ms
+08:49:48.195 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:49:48.208 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.423 seconds (JVM running for 2.361)
+08:49:53.785 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:49:53.785 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+08:49:53.878 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:51:30.639 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 36464 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:51:30.641 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:51:31.293 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:51:31.410 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 737 ms
+08:51:31.721 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:51:31.733 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.433 seconds (JVM running for 2.361)
+08:51:36.410 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:51:36.411 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+08:51:36.493 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+08:59:50.491 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 28108 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+08:59:50.493 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+08:59:51.158 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+08:59:51.291 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 766 ms
+08:59:51.589 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+08:59:51.601 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.465 seconds (JVM running for 2.377)
+08:59:55.475 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+08:59:55.476 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+08:59:55.561 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:00:39.788 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 34832 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+09:00:39.790 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+09:00:40.461 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:00:40.596 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 778 ms
+09:00:40.895 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:00:40.910 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.475 seconds (JVM running for 2.355)
+09:00:42.112 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:00:42.113 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+09:00:42.186 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:09:33.397 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 30948 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+09:09:33.399 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+09:09:33.962 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:09:34.052 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 623 ms
+09:09:34.279 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:09:34.290 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.199 seconds (JVM running for 2.482)
+09:09:36.566 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:09:36.567 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+09:09:36.641 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:13:39.448 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 36072 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+09:13:39.450 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+09:13:40.089 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:13:40.201 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 719 ms
+09:13:40.486 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:13:40.498 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.413 seconds (JVM running for 2.397)
+09:13:47.725 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:13:47.726 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+09:13:47.808 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:15:50.370 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 31996 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+09:15:50.372 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+09:15:50.934 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:15:51.025 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 624 ms
+09:15:51.309 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:15:51.321 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.255 seconds (JVM running for 2.108)
+09:15:52.861 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:15:52.862 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+09:15:52.939 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:19:11.300 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 1812 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+09:19:11.303 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+09:19:11.921 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:19:12.030 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 697 ms
+09:19:12.308 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:19:12.320 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.311 seconds (JVM running for 2.241)
+09:19:12.801 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:19:12.801 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+09:19:12.877 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:28:33.549 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 25704 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+09:28:33.552 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+09:28:34.287 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+09:28:34.403 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 812 ms
+09:28:34.745 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+09:28:34.758 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 1.582 seconds (JVM running for 2.535)
+09:28:44.232 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+09:28:44.233 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+09:28:44.320 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+09:28:44.326 INFO  v.v.d.s.impl.PaymentRequestImpl - End process payment with response: Response(code=01, message=Payment successful, responseId=bec4f5f7-5ca9-48ba-923c-046218f42ccc, responseTime=20240809092844, checkSum=f1039f7999d69403f661aecec837b62b46715850b369f2a2971ce2d40b64acd7)
+11:02:22.191 INFO  vn.vnpay.demo1.Demo1Application - Starting Demo1Application using Java 1.8.0_422 on anhntp2 with PID 8472 (D:\anhntp\demo1-anhntp\demo1\target\classes started by anhntp2 in D:\anhntp\demo1-anhntp\demo1)
+11:02:22.195 INFO  vn.vnpay.demo1.Demo1Application - No active profile set, falling back to 1 default profile: "default"
+11:02:22.774 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+11:02:22.776 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+11:02:22.795 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+11:02:23.155 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+11:02:23.354 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1118 ms
+11:02:23.978 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+11:02:23.989 INFO  vn.vnpay.demo1.Demo1Application - Started Demo1Application in 2.201 seconds (JVM running for 3.815)
+11:02:50.980 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+11:02:50.982 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+11:02:51.194 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)
+11:02:58.387 INFO  v.v.d.s.impl.PaymentRequestImpl - Begin process payment with request: PaymentRequest(tokenKey=1601353776839FT19310RH6P1, apiID=restPayment, mobile=0345225630, bankCode=970445, accountNo=0001100014211002, payDate=20200929112923, additionalData=11, debitAmount=11200, respDesc=SUCCESS, respCode=00, traceTransfer=FT19310RH6P1, messageType=1, checkSum=07cb3cb1adce3aad292fc722213e0ce493d12e25c2761d8d5424aef25d5dbec4, orderCode=FT19310RH6P1, userName=cntest001, realAmount=11100, promotionCode=11)

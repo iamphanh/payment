@@ -1,0 +1,6 @@
+09:09:36.642 ERROR v.v.d.s.impl.PaymentRequestImpl - Invalid Check Sum
+09:13:47.810 ERROR v.v.d.s.impl.PaymentRequestImpl - Invalid Check Sum
+09:15:52.941 ERROR v.v.d.s.impl.PaymentRequestImpl - Invalid Check Sum
+09:19:12.879 ERROR v.v.d.s.impl.PaymentRequestImpl - Invalid Check Sum
+11:02:51.208 ERROR v.v.d.s.impl.PaymentRequestImpl - Invalid Check Sum with response: Response(code=03, message=Invalid checkSum, responseId=531daa33-3f90-4506-8bc5-836619f5f166, responseTime=20240809110251, checkSum=d7d1a8ec2d48d920ca3a90151cc2659b1437b822a7bfa6bb143cf90679b2e954)
+11:02:58.388 ERROR v.v.d.s.impl.PaymentRequestImpl - Invalid Check Sum with response: Response(code=03, message=Invalid checkSum, responseId=d7ead8e8-9ce3-4d93-ab75-5cc94871e30f, responseTime=20240809110258, checkSum=474b12eaacc84934350d04a8dd84a325b3f7b203ac78b031bdd4085cf37b2b72)

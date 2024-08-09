@@ -9,9 +9,4 @@ public class Response {
     private String responseId;
     private String responseTime;
     private String checkSum;
-
-    public Response(String code, String message) {
-        this.code = code;
-        this.message = message;
-    }
 }

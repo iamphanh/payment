@@ -9,5 +9,4 @@ public class Bank {
     private String bankCode;
     private String privateKey;
 
-
 }

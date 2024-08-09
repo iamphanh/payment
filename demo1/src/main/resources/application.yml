@@ -1,7 +1,9 @@
 server:
   port: 8080
+
 banks:
-  - bankCode: VNPAY
-    privateKey: ghffffffffff
-  - bankCode: BIDV
-    privateKey: jjjjjjjj
+  banks:
+    - bankCode: VNPAY
+      privateKey: ghffffffffff
+    - bankCode: BIDV
+      privateKey: jjjjjjjj
